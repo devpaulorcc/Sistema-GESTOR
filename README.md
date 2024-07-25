@@ -1,4 +1,4 @@
-# sistema-de-gestao
+# Sistema de gestão com dashboard
 Sistema completo de gestão com dashboard!
 
 ## Tecnologias
@@ -121,3 +121,8 @@ php spark serve
 - 🛠️ FIX - O arquivo foi concertado
 
 - 🕷️ BUG - O arquivo está apresentando bugs
+
+
+## Post linkedin
+
+ - [Clique aqui](https://www.linkedin.com/posts/paulo-ricardo-cardoso_estou-percebendo-um-grande-progresso-em-minhas-activity-7222030768791814146-P0BW?utm_source=share&utm_medium=member_desktop)
