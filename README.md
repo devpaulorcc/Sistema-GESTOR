@@ -102,6 +102,12 @@ Instale o composer
 ```bash
 composer install
 ```
+Instale o node_modules para tailwind
+
+```bash
+npm install twind
+```
+
 Use o seguinte comando para iniciar o projeto
 
 ```bash
